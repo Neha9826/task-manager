@@ -7,7 +7,7 @@ A simple laravel task management application using Laravel 7.*.
 
 1. Clone Project
 ````sh
-git clone https://github.com/ManiruzzamanAkash/Laravel-Simple-CRUD-App.git
+git clone https://github.com/Neha9826/task-manager.git
 ````
 2. Composer install
 ````sh
@@ -25,7 +25,7 @@ DB_PASSWORD=
 ```
 5. Go to the project - 
 ```sh
-cd Laravel-Simple-CRUD-App
+cd task-manager
 ```
 6. Run Project inside that directory - 
 ````sh
